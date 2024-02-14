@@ -1,0 +1,17 @@
+.depoiments {
+  display: flex;
+  width: 320px;
+  background: #FEF7FF;
+
+  img {
+    max-width: 56px;
+    max-height: 56px;
+    margin-top: 16px;
+  }
+
+  mat-card-content {
+    display: flex;
+    align-items: start;
+    gap: 16px;
+  }
+}
